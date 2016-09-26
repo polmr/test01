@@ -4,12 +4,12 @@ using namespace std;
 
 void salute01()
 {
-  cout <<"salute 01!" << endl;
+  cout <<"salute 01 tocado por develop!" << endl;
 }
 
 void yujuu02()
 {
-  cout <<"salute 02!" << endl;  
+  cout <<"salute 02 tocado por branch!" << endl;  
 }
 int main(int argc, char** argv)
 {  
