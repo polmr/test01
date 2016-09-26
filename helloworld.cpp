@@ -9,7 +9,7 @@ void salute01()
 
 void yujuu02()
 {
-  cout <<"salute 02!" << endl;  
+  cout <<"salute 02 tocado por branch!" << endl;  
 }
 int main(int argc, char** argv)
 {  
