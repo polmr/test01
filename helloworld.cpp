@@ -4,7 +4,7 @@ using namespace std;
 
 void salute01()
 {
-  cout <<"salute 01 tocado por develop, again 07!" << endl;
+  cout <<"salute 01 tocado por develop, again 08!" << endl;
 }
 
 void yujuu02()
